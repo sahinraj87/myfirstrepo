@@ -119,7 +119,7 @@ extension ViewController: AlbumManagerDelegate {
             print("Internet connection OK")
             activityIndicator.startAnimating()
             albumTableView.isHidden = true
-            // download function
+            // upload branch
             albumManager.fetchAlbumDetails(rawURL: albumManager.albumURL)
             
         } else {
