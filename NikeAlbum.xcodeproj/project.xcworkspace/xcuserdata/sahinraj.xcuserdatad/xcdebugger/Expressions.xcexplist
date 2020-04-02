@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ResultViewController.viewDidLoad():ResultViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "albumData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tableView(_:didSelectRowAt:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.viewControllerdelegate">
+            </PersistentString>
+            <PersistentString
+               value = "albumDataLocal">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AlbumManager.handleTaskData(data:urlResponse:error:):AlbumManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AlbumManager.handleTaskData(data:urlResponse:error:):AlbumManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.delegate">
+            </PersistentString>
+            <PersistentString
+               value = "delegate?">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
