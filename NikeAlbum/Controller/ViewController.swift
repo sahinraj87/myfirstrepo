@@ -119,6 +119,7 @@ extension ViewController: AlbumManagerDelegate {
             print("Internet connection OK")
             activityIndicator.startAnimating()
             albumTableView.isHidden = true
+            //testing git
             albumManager.fetchAlbumDetails(rawURL: albumManager.albumURL)
             
         } else {
